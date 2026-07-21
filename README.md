@@ -31,14 +31,6 @@ The robot uses a rectangular body as its main structural frame, housing the core
 
 The battery and other heavy components are placed as close to the center of the body as possible to maintain a balanced center of gravity and reduce the risk of tipping.
 
-**Candidate materials:**
-- Aluminum
-- Carbon fiber
-- 3D-printed components
-- A combination of the above
-
-A lightweight but rigid structure is preferred, to reduce the torque required from the motors.
-
 ---
 
 ## Leg Design
